@@ -1,10 +1,10 @@
 # Site settings
 title: One-way Journey
-SEOTitle: Lance's Tech&Life Blog
+SEOTitle: Blog of Lance
 header-img: img/post-bg-desk.jpg
 email: lans304@gmail.com
 description: "There is always another way."
-keyword: "Web, Binay, Hacking, CTF,Android, iOS"
+keyword: "Web, Binay, Hacking, CTF, Android, iOS"
 url: "http://wllidr.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wllidr/wllidr.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/wllidr/wllidr.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
