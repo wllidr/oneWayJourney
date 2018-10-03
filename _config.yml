@@ -18,12 +18,12 @@ sidebar-avatar: /img/avatar_me.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
-#github_username:    qiubaiying
+# weibo_username:     wllidr
+#zhihu_username:     wllidr
+#github_username:    wllidr
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#twitter_username:   wllidr
 
 
 
@@ -59,16 +59,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: wllidr
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: wllidr.github.io    #仓库名称
+  owner: wllidr    #github用户名
+  admin: wllidr
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
